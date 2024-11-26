@@ -1,0 +1,64 @@
+
+UTILIDADES WINDOWS
+-CONTROL KEYBOARD Propiedades del teclado
+-CONTROL COLOR Propiedades de pantalla
+-CONTROL MOUSE O MAIN.CPL Propiedades del mouse
+-RSTRUI	Abre el asistente de restauración del sistema Windows
+-INTL.CPL	Abre la configuración de Región e idioma
+-APPWIZ.CPL	Abre la herramienta de desinstalación de programas del panel de control
+-DESK.CPL	Abre la configuración de propiedades de pantalla
+-SYSDM.CPL	Abre las propiedades del sistema
+-POWERCFG.CPL	Abre la configuración de opciones de energía del panel de control
+-JOY.CPL	Abre los dispositivos de juegos instalados en el sistema
+-MMSYS.CPL	Abre las propiedades de los dispositivos de audio y sonido
+-TIMEDATE.CPL	Abre las propiedades de fecha y hora del sistema
+-WSCUI.CPL	Abre el centro de opciones de seguridad y mantenimiento
+-FSMGMT.MSC	Abre la configuración de carpetas compartidas con otros usuarios
+-COMPMGMT.MSC	Abre el administrador de equipos
+-DEVMGMT.MSC	Abre el administrador de dispositivos
+-GPEDIP.MSC	Abre el editor de directivas de grupo
+-LUSRMGR.MSC	Abre la ventana de usuarios y grupos locales
+-SECPOL.MSC	Abre las directivas de seguridad local
+-RSOP.MSC	Abre el conjunto resultante de directivas de Windows
+-WMIMGMT.MSC	Abre la consola Raiz/control WMI de Windows
+-MMC	Abre una consola de configuración
+-TPM.MSC	Abre el administrador del módulo de plataforma segura en Windows
+-UTILMAN	Abre el administrador de utilidades de Windows
+-CLICONFG	Abre el administrador del comprobador de controlador
+-SLUI	Abre la configuración de activación de Windows
+-VERIFIER	Abre el administrador del comprobador de controladores
+-MOBSYNC	Abre en centro de sincronización
+-REKEYWIZ	Abre el asistente para la administración de certificados de cifrado de archivos
+
+ APLICACIONES DEL SISTEMA
+-MAGNIFY	Abre la herramienta Lupa
+-OSK	Abre el teclado virtual
+-CALC	Abre la calculadora
+-SNIPPINGTOOL	Abre la herramienta de recortes
+-NOTEPAD	Abre el bloc de notas
+-WRITE	Abre el Wordpad
+-TABTIP	Abre el panel de escritura táctil de Windows
+-STIKYNOT	Abre las notas rápidas
+-WMPLAYER	Abre el Reproductor de Windows Media
+-DVDPLAY	Abre el lector de DVD con Windows Media Player para su reproducción
+-SNDVOL	Abre el mezclador de volumen
+-MSPAINT	Abre la aplicación Paint
+-IEXPLORE	Abre el navegador Internet Explorer
+-WINWORD	Abre Microsoft Word en caso de tenerlo instalado
+-EXCEL	Abre Microsoft Excel en caso de tenerlo instalado
+-MOVIEMK	Abre Windows Movie Maker en caso de tenerlo instalado
+-MSTSC	Abre el asistente de conexión a un escritorio remoto de Windows
+-HDWWIZ.CPL	Abre el asistente para agregar un nuevos dispositivos hardware
+-CONTROL SCHEDTASKS	Abre el programador de tareas de Windows
+-CERTMGR.MSC	Abre la herramienta de certificados de usuario
+-ODBCAD32	Abre el Administrador de orígenes de datos ODBC
+-CREDWIZ	Abre el asistente de copias de seguridad de usuarios y contraseñas
+-SHUTDOWN (CMD)	Ejecuta el comando para apagar el sistema
+-LOGOFF (CMD)	Ejecuta el comando para cerrar la sesión del usuario activo
+
+ GESTION DE ALMACENAMIENTO
+-DISKPART	Abre la herramienta de particiones y configuración de discos
+-CHKDSK (CMD)	Ejecuta el comando de análisis y corrección de errores de discos duros
+-SFC (CMD)	Ejecuta el comando de escaneo y reparación de archivos del sistema
+-DEFRAG	Abre la herramienta de optimización y desfragmentación de discos duros
+-CLEANMGR	Abre la herramienta para liberar espacio en el disco
